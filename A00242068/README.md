@@ -81,7 +81,7 @@ El primer parcial del curso sistemas operativos trata sobre la instalación de s
   ![](imagenes/2018-03-31%20(5).png)
  
  
- # 5.  Exportacion de la maquina virtual
+ # 5.  Importacion de la maquina virtual
  
   
   ![](imagenes/Captura%20de%20pantalla%20de%202018-04-04%2009-51-45.png)
@@ -94,6 +94,8 @@ El primer parcial del curso sistemas operativos trata sobre la instalación de s
   
   ![](imagenes/Captura%20de%20pantalla%20de%202018-04-04%2009-36-50.png)
   
+  
+  # 6. Cuadro comparativo
   
   
   

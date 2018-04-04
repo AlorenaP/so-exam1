@@ -101,7 +101,7 @@ El primer parcial del curso sistemas operativos trata sobre la instalación de s
   | **Caracteristica** | **Debian 9** | **CentOS 7** |
   | :----------------- | :------------ | :------------|
   | Gestionde actualizaciones | Utiliza  APT (Advanced Packaging Toll) como paquete de gestión de las actualizaciones la cual sirve para actualizar el sistema. | Utiliza YUM (Yellow dog Updater, Modified) como paquete de gestión de las actualizaciones,sirve para actualizar el sistema e instalar las herramientas necesarias para el buen funcionamiento del sistema. |
-  | Sistema de archivos | CONTENIDO COLUMNA 2 | XFS es el sistema de archivos por defecto y permite escalar la capacidad de almacenamiento del sistema hasta 500 terabytes. |
+  | Sistema de archivos | se le puede configurar el que prefiera entre los sistemas de archivos existentes para linux. | XFS es el sistema de archivos por defecto y permite escalar la capacidad de almacenamiento del sistema hasta 500 terabytes. |
   | Estabilidad | Tiene paquetes más antiguos, pero mucho más estables (más testeados y cuyas actualizaciones se basan en la misma versión estable) | Solo se lanzan versiones verdaderamente estables |
   | Soporte | Recibe soporte durante 3-4 años | Recibe soporte durante mucho más tiempo |
   | Kernel Configurable | si | si |

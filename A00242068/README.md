@@ -83,9 +83,16 @@ El primer parcial del curso sistemas operativos trata sobre la instalación de s
  
  # 5.  Exportacion de la maquina virtual
  
-  ![]()
-  ![]()
-  ![]()
+  
+  ![](imagenes/Captura%20de%20pantalla%20de%202018-04-04%2009-51-45.png)
+  
+  ![](imagenes/Captura%20de%20pantalla%20de%202018-04-04%2009-52-14.png)
+  
+  ![](imagenes/Captura%20de%20pantalla%20de%202018-04-04%2009-53-05.png)
+  
+  ![](imagenes/Captura%20de%20pantalla%20de%202018-04-04%2009-59-38.png)
+  
+  ![](imagenes/Captura%20de%20pantalla%20de%202018-04-04%2009-36-50.png)
   
   
   

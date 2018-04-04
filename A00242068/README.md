@@ -79,6 +79,10 @@ El primer parcial del curso sistemas operativos trata sobre la instalación de s
    instalacionde tig con el comando `sudo apt-get install tig`
  
   ![](imagenes/2018-03-31%20(5).png)
+  
+  historial de commits con git
+  
+  ![](imagenes/tig.png)
  
  
  # 5.  Importacion de la maquina virtual
